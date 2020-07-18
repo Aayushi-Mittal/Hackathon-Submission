@@ -8,7 +8,7 @@
     
 ## Tasks completed:
   - Finalized a name. - _**"Dawat-e-Hindustan"**_
-  - Collected Pictures. **Picture Credits : [Pintrest](https://in.pinterest.com/)**
+  - Collected Pictures. **Picture Credits : [Pinterest](https://in.pinterest.com/)**
   - Designed a Logo. [Check here](https://drive.google.com/file/d/1WzhfK6L0l6L2il78GTCaxrhlWxS_Z8Ak/view?usp=sharing)
   - Decided items to be kept in the [Menu](https://docs.google.com/spreadsheets/d/1LN4WPfiDgL9h4DRa8EOgdBNwPdCY3sWNTewCbP1EXhQ/edit?usp=sharing).
   - Found some content to be written.
