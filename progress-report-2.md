@@ -20,3 +20,7 @@
   - Added About Us Section.
   - Added Menu Of Food Items.
   - Progress can be seen [Here](https://aayushi-mittal.github.io/Frontend_Bakery_or_Restaurant_GSBSP-BR03/#menu)
+    #### TECH STACKS
+    - HTML
+    - CSS
+    - BootStrap
